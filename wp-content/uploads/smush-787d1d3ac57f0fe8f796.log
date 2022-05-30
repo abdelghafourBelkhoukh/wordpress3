@@ -1,0 +1,109 @@
+[2022-05-06 17:32:22 : INFO] - Re_Smush_It_Task with attachment ID : 88, autocreated on : May 06, 2022 05:32:21 
+[2022-05-06 17:38:00 : INFO] - 
+ 
+[2022-05-06 17:38:00 : INFO] - Header for logs at time:  Fri, 06 May 2022 17:38:00 +0000 on http://localhost/wordpress 
+[2022-05-06 17:38:00 : INFO] - WP: 5.9.3 
+[2022-05-06 17:38:00 : INFO] - PHP: 8.1.1 (apache2handler, Windows NT DESKTOP-JAOJI00 10.0 build 22000 (Windows 10) AMD64) 
+[2022-05-06 17:38:00 : INFO] - MySQL: 5.5.5 
+[2022-05-06 17:38:00 : INFO] - WPLANG: en_GB 
+[2022-05-06 17:38:00 : INFO] - Server: Apache/2.4.52 (Win64) OpenSSL/1.1.1m PHP/8.1.1 
+[2022-05-06 17:38:00 : INFO] - Outbound connections: N 
+[2022-05-06 17:38:00 : INFO] - safe_mode: 0 
+[2022-05-06 17:38:00 : INFO] - max_execution_time: 120 
+[2022-05-06 17:38:00 : INFO] - memory_limit: 512M (used: 51.1M | 6M) 
+[2022-05-06 17:38:00 : INFO] - multisite: N 
+[2022-05-06 17:38:00 : INFO] - openssl: OpenSSL 1.1.1l  24 Aug 2021 
+[2022-05-06 17:38:00 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2022-05-06 17:38:00 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2022-05-06 17:38:00 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2022-05-06 17:38:00 : INFO] - Processing task with ID : 1, and type 'smush' 
+[2022-05-06 17:38:00 : INFO] - Task with ID 1 and type (smush) failed with error code invalid_file_type - C:\xampp\htdocs\wordpress/wp-content/uploads/2022/05/Black-13495.mp4 - cannot be optimized, it has an invalid file type 
+[2022-05-06 17:38:00 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2022-05-06 17:38:00 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2022-05-06 17:38:00 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2022-05-06 17:38:00 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2022-05-06 17:48:05 : INFO] - 
+ 
+[2022-05-06 17:48:05 : INFO] - Header for logs at time:  Fri, 06 May 2022 17:48:05 +0000 on http://localhost/wordpress 
+[2022-05-06 17:48:05 : INFO] - WP: 5.9.3 
+[2022-05-06 17:48:05 : INFO] - PHP: 8.1.1 (apache2handler, Windows NT DESKTOP-JAOJI00 10.0 build 22000 (Windows 10) AMD64) 
+[2022-05-06 17:48:05 : INFO] - MySQL: 5.5.5 
+[2022-05-06 17:48:05 : INFO] - WPLANG: en_GB 
+[2022-05-06 17:48:05 : INFO] - Server: Apache/2.4.52 (Win64) OpenSSL/1.1.1m PHP/8.1.1 
+[2022-05-06 17:48:05 : INFO] - Outbound connections: N 
+[2022-05-06 17:48:05 : INFO] - safe_mode: 0 
+[2022-05-06 17:48:05 : INFO] - max_execution_time: 120 
+[2022-05-06 17:48:05 : INFO] - memory_limit: 512M (used: 51.1M | 6M) 
+[2022-05-06 17:48:05 : INFO] - multisite: N 
+[2022-05-06 17:48:05 : INFO] - openssl: OpenSSL 1.1.1l  24 Aug 2021 
+[2022-05-06 17:48:05 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2022-05-29 18:55:59 : INFO] - Re_Smush_It_Task with attachment ID : 174, autocreated on : May 29, 2022 06:55:59 
+[2022-05-29 18:57:55 : INFO] - Re_Smush_It_Task with attachment ID : 176, autocreated on : May 29, 2022 06:57:55 
+[2022-05-29 18:58:21 : INFO] - Re_Smush_It_Task with attachment ID : 177, autocreated on : May 29, 2022 06:58:21 
+[2022-05-29 18:58:48 : INFO] - Re_Smush_It_Task with attachment ID : 178, autocreated on : May 29, 2022 06:58:48 
+[2022-05-29 18:59:16 : INFO] - Re_Smush_It_Task with attachment ID : 179, autocreated on : May 29, 2022 06:59:16 
+[2022-05-29 18:59:38 : INFO] - Re_Smush_It_Task with attachment ID : 180, autocreated on : May 29, 2022 06:59:38 
+[2022-05-29 19:01:04 : INFO] - 
+ 
+[2022-05-29 19:01:04 : INFO] - Header for logs at time:  Sun, 29 May 2022 19:01:04 +0000 on http://localhost/wordpress 
+[2022-05-29 19:01:04 : INFO] - WP: 5.9.3 
+[2022-05-29 19:01:04 : INFO] - PHP: 8.1.1 (apache2handler, Windows NT DESKTOP-JAOJI00 10.0 build 22000 (Windows 10) AMD64) 
+[2022-05-29 19:01:04 : INFO] - MySQL: 5.5.5 
+[2022-05-29 19:01:04 : INFO] - WPLANG: en_GB 
+[2022-05-29 19:01:04 : INFO] - Server: Apache/2.4.52 (Win64) OpenSSL/1.1.1m PHP/8.1.1 
+[2022-05-29 19:01:04 : INFO] - Outbound connections: N 
+[2022-05-29 19:01:04 : INFO] - safe_mode: 0 
+[2022-05-29 19:01:04 : INFO] - max_execution_time: 120 
+[2022-05-29 19:01:04 : INFO] - memory_limit: 512M (used: 53M | 6M) 
+[2022-05-29 19:01:04 : INFO] - multisite: N 
+[2022-05-29 19:01:04 : INFO] - openssl: OpenSSL 1.1.1l  24 Aug 2021 
+[2022-05-29 19:01:04 : INFO] - A total of 6 tasks of type smush found and will be processed in this iteration 
+[2022-05-29 19:01:04 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2022-05-29 19:01:04 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2022-05-29 19:01:04 : INFO] - Processing task with ID : 2, and type 'smush' 
+[2022-05-29 19:01:04 : INFO] - Re_Smush_It_Task with attachment ID : 174, autocreated on : May 29, 2022 06:55:59 
+[2022-05-29 19:01:04 : INFO] - 60 
+[2022-05-29 19:01:08 : INFO] - Backing up the original image - 2022/05/site-dune-agence-de-location-updraft-pre-smush-original.png 
+[2022-05-29 19:01:08 : INFO] - Successfully optimized the image - C:\xampp\htdocs\wordpress/wp-content/uploads/2022/05/site-dune-agence-de-location.png.The file was compressed from 1.44 MB to 412.02 KB saving 72.1 percent using WP-Optimize 
+[2022-05-29 19:01:08 : INFO] - Completed processing task with ID : 2, and type 'smush' 
+[2022-05-29 19:01:08 : INFO] - Processing task with ID : 3, and type 'smush' 
+[2022-05-29 19:01:08 : INFO] - Re_Smush_It_Task with attachment ID : 176, autocreated on : May 29, 2022 06:57:55 
+[2022-05-29 19:01:08 : INFO] - 60 
+[2022-05-29 19:01:14 : INFO] - Backing up the original image - 2022/05/site-pour-recommandation-des-films-et-series-updraft-pre-smush-original.png 
+[2022-05-29 19:01:14 : INFO] - Successfully optimized the image - C:\xampp\htdocs\wordpress/wp-content/uploads/2022/05/site-pour-recommandation-des-films-et-series.png.The file was compressed from 3.85 MB to 1.16 MB saving 69.97 percent using WP-Optimize 
+[2022-05-29 19:01:14 : INFO] - Completed processing task with ID : 3, and type 'smush' 
+[2022-05-29 19:01:14 : INFO] - Processing task with ID : 4, and type 'smush' 
+[2022-05-29 19:01:14 : INFO] - Re_Smush_It_Task with attachment ID : 177, autocreated on : May 29, 2022 06:58:21 
+[2022-05-29 19:01:14 : INFO] - 60 
+[2022-05-29 19:01:16 : INFO] - Backing up the original image - 2022/05/site-des-annonces-updraft-pre-smush-original.png 
+[2022-05-29 19:01:16 : INFO] - Successfully optimized the image - C:\xampp\htdocs\wordpress/wp-content/uploads/2022/05/site-des-annonces.png.The file was compressed from 810.06 KB to 281.40 KB saving 65.26 percent using WP-Optimize 
+[2022-05-29 19:01:16 : INFO] - Completed processing task with ID : 4, and type 'smush' 
+[2022-05-29 19:01:16 : INFO] - Processing task with ID : 5, and type 'smush' 
+[2022-05-29 19:01:16 : INFO] - Task with ID 5 and type (smush) failed with error code exceeded_max_filesize - C:\xampp\htdocs\wordpress/wp-content/uploads/2022/05/gestion-des-RDVs-darchetecte.png - cannot be optimized, file size is above service provider limit 
+[2022-05-29 19:01:16 : INFO] - Processing task with ID : 6, and type 'smush' 
+[2022-05-29 19:01:16 : INFO] - Task with ID 6 and type (smush) failed with error code exceeded_max_filesize - C:\xampp\htdocs\wordpress/wp-content/uploads/2022/05/Gestion-dun-Cabinet-Traumatologie.png - cannot be optimized, file size is above service provider limit 
+[2022-05-29 19:01:16 : INFO] - Processing task with ID : 7, and type 'smush' 
+[2022-05-29 19:01:16 : INFO] - Re_Smush_It_Task with attachment ID : 180, autocreated on : May 29, 2022 06:59:38 
+[2022-05-29 19:01:16 : INFO] - 60 
+[2022-05-29 19:01:20 : INFO] - Backing up the original image - 2022/05/Wordpress-Ecommenrce-updraft-pre-smush-original.png 
+[2022-05-29 19:01:20 : INFO] - Successfully optimized the image - C:\xampp\htdocs\wordpress/wp-content/uploads/2022/05/Wordpress-Ecommenrce.png.The file was compressed from 2.87 MB to 852.16 KB saving 70.96 percent using WP-Optimize 
+[2022-05-29 19:01:20 : INFO] - Completed processing task with ID : 7, and type 'smush' 
+[2022-05-29 19:01:20 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2022-05-29 19:01:20 : INFO] - Successfully processed the queue (smush). 6 tasks were processed out of 6. 
+[2022-05-29 19:01:20 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2022-05-29 19:01:20 : INFO] - Cleaning up tasks of type (smush). A total of 6 tasks will be deleted. 
+[2022-05-29 19:12:09 : INFO] - 
+ 
+[2022-05-29 19:12:09 : INFO] - Header for logs at time:  Sun, 29 May 2022 19:12:09 +0000 on http://localhost/wordpress 
+[2022-05-29 19:12:09 : INFO] - WP: 5.9.3 
+[2022-05-29 19:12:09 : INFO] - PHP: 8.1.1 (apache2handler, Windows NT DESKTOP-JAOJI00 10.0 build 22000 (Windows 10) AMD64) 
+[2022-05-29 19:12:09 : INFO] - MySQL: 5.5.5 
+[2022-05-29 19:12:09 : INFO] - WPLANG: en_GB 
+[2022-05-29 19:12:09 : INFO] - Server: Apache/2.4.52 (Win64) OpenSSL/1.1.1m PHP/8.1.1 
+[2022-05-29 19:12:09 : INFO] - Outbound connections: N 
+[2022-05-29 19:12:09 : INFO] - safe_mode: 0 
+[2022-05-29 19:12:09 : INFO] - max_execution_time: 120 
+[2022-05-29 19:12:09 : INFO] - memory_limit: 512M (used: 53M | 6M) 
+[2022-05-29 19:12:09 : INFO] - multisite: N 
+[2022-05-29 19:12:09 : INFO] - openssl: OpenSSL 1.1.1l  24 Aug 2021 
+[2022-05-29 19:12:09 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
